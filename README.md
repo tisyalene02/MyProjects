@@ -3,6 +3,7 @@ This is a portfolio containing all of the projects that I have worked on through
 
 Troll Detection During the Malaysian Election using Machine Learning Techniques [Oct 2024 – Jan 2025]\
 Link: https://trolldetection.streamlit.app/
+Github Repo Link:
 • Technologies used: Python, Streamlit, Pandas, NumPy, NLTK, Scikit-learn, Matplotlib
 • Created an innovative tool using Python and Streamlit that processed over 7000 comments from election-
 related videos; findings provided insights into the primary sources of online harassment within political
@@ -20,7 +21,7 @@ facilities, improving knowledge of inequalities and the effects of policies.
 
 KAFA Management System March 2024 – June 2024
 Interface Figma Link: https://www.figma.com/design/YTrtxZKkkft5BOitPb7qJY/KAFA-GUI?node-id=0-1&t=7eZ9Ct9R0RvGTOIH-1
-Github Repo Link: 
+Github Repo Link: https://github.com/qiiymus/sep
 • Technologies used: Laravel, MySQL
 • Developed a system for KAFA schools to improve the data management of students and organize the
 administrative work.
@@ -28,6 +29,7 @@ administrative work.
 
 Water Potability Machine Learning App March 2024 – June 2024
 Link: https://waterpotabilitypred.streamlit.app/
+Github Repo Link:
 • Technologies used: Python, Streamlit, Pandas, NumPy, Scikit-learn, Matplotlib
 • Developed a machine learning application to detect water potability according to various water quality
 parameters from a dataset taken from Kaggle.
