@@ -15,6 +15,12 @@ Link: https://lookerstudio.google.com/reporting/bda67484-68f0-4aff-8d2b-857fdd4f
 • Developed an interactive dashboard for tracking Malaysia’s progress on achieving the SDG 6, by providing illustrations according to states and the demographic areas in Malaysia.
 • Integrated data from official sources to examine patterns in the availability of clean water and sanitary facilities, improving knowledge of inequalities and the effects of policies.
 
+Ice Cream Berlemok Gula Apong System
+Website link: https://gulaapong.berlemokhub.com/
+Interface Figma Link: https://www.figma.com/design/XvAavTml7fPl4RXQXgjLwY/Untitled?node-id=0-1&t=DC9HLn9NLbAAOiog-1
+• Technologies used: Wordpress
+• Developed a system for the Ice Cream Berlemok Gula Apong shop which is an SME to handle their menu, orders, payment, review and coupons.
+
 KAFA Management System March 2024 – June 2024
 Interface Figma Link: https://www.figma.com/design/YTrtxZKkkft5BOitPb7qJY/KAFA-GUI?node-id=0-1&t=7eZ9Ct9R0RvGTOIH-1
 Github Repo Link: https://github.com/qiiymus/sep
