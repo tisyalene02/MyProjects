@@ -29,7 +29,7 @@ administrative work.
 
 Water Potability Machine Learning App March 2024 – June 2024
 Link: https://waterpotabilitypred.streamlit.app/
-Github Repo Link:
+Github Repo Link: https://github.com/tisyalene02/water_potability.git
 • Technologies used: Python, Streamlit, Pandas, NumPy, Scikit-learn, Matplotlib
 • Developed a machine learning application to detect water potability according to various water quality
 parameters from a dataset taken from Kaggle.
